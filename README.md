@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lukahukur
 - 👀 I’m interested in Magic 
 - 🌱 I’m currently learning how to turn a frog into a Princess
-- 💞️ I’m looking to collaborate with Professor Snape from Hogwarts
+- 💞️ I’m looking for collaboration with Professor Snape from Hogwarts
 - 📫 You can Communicate with me using pigeon mail 
 
 <!---
